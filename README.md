@@ -11,3 +11,6 @@ This was a new design, also as an exercise in using OpenSCAD, but highly inspire
 * https://www.thingiverse.com/thing:2858639
 * https://www.thingiverse.com/thing:3163706
 * https://www.thingiverse.com/thing:4036831
+
+## Other publications
+Also published on thingiverse: https://www.thingiverse.com/thing:4736323
